@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@600;700&display=swap');
+body {
+  	margin: 0; line-height: normal;
+}
+
+.footerChild {
+  	position: absolute;
+  	top: -26px;
+  	left: 0px;
+  	width: 1920px;
+  	height: 605px;
+}
+.footerItem {
+  	position: absolute;
+  	top: 401px;
+  	left: 268px;
+  	border-top: 4px solid #064356;
+  	box-sizing: border-box;
+  	width: 387px;
+  	height: 4px;
+}
+.home {
+  	position: absolute;
+  	top: 265px;
+  	left: 1618px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 170px;
+  	height: 56px;
+}
+.service {
+  	position: absolute;
+  	top: 309px;
+  	left: 1618px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 170px;
+  	height: 56px;
+}
+.about {
+  	position: absolute;
+  	top: 354px;
+  	left: 1618px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 170px;
+  	height: 56px;
+}
+.account {
+  	position: absolute;
+  	top: 404px;
+  	left: 1618px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 170px;
+  	height: 56px;
+}
+.professionalAgricultureConsu1 {
+  	position: absolute;
+  	top: 397px;
+  	left: 271px;
+  	font-size: 26px;
+  	display: flex;
+  	color: #064356;
+  	align-items: center;
+  	width: 392px;
+  	height: 63px;
+}
+.rxAgro {
+  	position: absolute;
+  	top: 334px;
+  	left: 271px;
+  	font-size: 70px;
+  	display: flex;
+  	color: #064356;
+  	align-items: center;
+  	width: 392px;
+  	height: 63px;
+}
+.footerInner {
+  	position: absolute;
+  	top: 282px;
+  	left: 77px;
+  	border-radius: 50%;
+  	width: 180px;
+  	height: 178px;
+  	object-fit: cover;
+}
+.footer {
+  	position: relative;
+  	width: 100%;
+  	height: 579px;
+  	text-align: left;
+  	font-size: 32px;
+  	color: #586056;
+  	font-family: 'League Spartan';
+}
+

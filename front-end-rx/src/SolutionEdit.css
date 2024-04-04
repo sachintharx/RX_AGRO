@@ -1,0 +1,87 @@
+.solution-edit {
+    background-color: #e2fddc;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 900px;
+    margin: 0 auto ;
+    margin-top: 100px;
+    min-width: 900px;
+    min-height: 1500px;
+    margin-bottom: 100px;
+}
+
+.solution-edit h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+
+textarea
+ {
+    width: 600px;
+    max-width: 600px;
+    height: 300px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f4fff3;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+input[type="text"],
+select {
+
+    width: 600px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+
+
+select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url('https://www.example.com/arrow-down.png');
+    background-position: right center;
+    background-repeat: no-repeat;
+    padding-right: 30px;
+}
+
+.button-container {
+    display: flex;
+    
+    margin-bottom: 300px;
+    
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 60px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}

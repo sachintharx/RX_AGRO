@@ -1,0 +1,98 @@
+.solution-form {
+    max-width: 900px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 40px;
+    background-color: #f2f2f2;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.solution-form h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.solution-form label {
+    font-weight: bold;
+    display: block;
+    margin-top: 15px;
+}
+
+.solution-form input
+{
+    width: 500px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background-color: #e2ddf7;
+    font-size: 16px;
+}
+
+
+.solution-form textarea {
+    width: 900px;
+    height: 300px;
+    max-width: 900px;
+    min-width: 900px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background-color: #effaf4;
+    font-size: 16px;
+}
+
+.solution-form select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background-color: #dde3f5;
+    font-size: 16px;
+}
+
+.solution-form button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s;
+    margin: 20px;
+}
+
+.solution-form button:hover {
+    background-color: #45a049;
+}
+
+.message {
+    margin-top: 20px;
+    text-align: center;
+    color: #d9534f;
+    font-size: 16px;
+}
+
+.solution-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    box-shadow: #45a049;
+}
+
+.addSolution {
+
+    margin-top: 100px;
+}

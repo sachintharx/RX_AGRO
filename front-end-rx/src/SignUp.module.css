@@ -1,0 +1,343 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@500;700&display=swap');
+body {
+  	margin: 0; line-height: normal;
+}
+
+.logInWindowBack1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 627.5px);
+    border-radius: 40px;
+    background-color: #fff;
+    width: 1255px;
+    height: 808px;
+    overflow: hidden;
+}
+.lgwlChild {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 500.5px);
+    border-radius: 50%;
+    width: 108px;
+    height: 107px;
+    object-fit: cover;
+}
+.rxAgro {
+    position: absolute;
+    top: 30px;
+    left: calc(50% - 350.5px);
+    display: flex;
+    align-items: center;
+    width: 223px;
+    height: 63px;
+}
+.lgwl {
+    position: absolute;
+    top: 26px;
+    left: calc(50% + 132.5px);
+    width: 355px;
+    height: 107px;
+}
+.usernameIcon1 {
+    position: absolute;
+    top: calc(50% - 22.5px);
+    left: calc(50% - 197px);
+    width: 34px;
+    height: 31.51px;
+    object-fit: cover;
+}
+.userName1 {
+    position: absolute;
+    top: calc(50% - 12.5px);
+    left: calc(50% - 139px);
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 193px;
+    height: 26px;
+}
+.userNameChild {
+    position: absolute;
+    top: calc(50% + 21.5px);
+    left: calc(50% - 201px);
+    width: 402px;
+    height: 2px;
+}
+
+.userName {
+    position: relative;
+    width: 400px;
+    height: 45px;
+    
+}
+
+.mailIcon1 {
+    position: absolute;
+    top: calc(50% - 20.5px);
+    left: calc(50% - 201.5px);
+    width: 41px;
+    height: 38px;
+    object-fit: cover;
+}
+.emailAddress {
+    position: absolute;
+    top: calc(50% - 14.5px);
+    left: calc(50% - 137.5px);
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 193px;
+    height: 26px;
+}
+.emailChild {
+    position: absolute;
+    top: calc(50% + 19.5px);
+    left: calc(50% - 199.5px);
+    width: 402px;
+    height: 2px;
+}
+.email {
+    position: relative;
+    width: 403px;
+    height: 41px;
+}
+.passwordChild {
+    position: absolute;
+    top: calc(50% + 23px);
+    left: calc(50% - 199.5px);
+    width: 402px;
+    height: 2px;
+}
+.password1 {
+    position: relative;
+    width: 403px;
+    height: 48px;
+    margin-top: -5px;
+}
+
+.password2 {
+    position: relative;
+    width: 403px;
+    height: 48px;
+    margin-top: 30px;
+}
+
+.cnpassIcon {
+    position: absolute;
+    top: calc(50% - 24px);
+    left: calc(50% - 201.5px);
+    width: 41px;
+    height: 38px;
+    object-fit: cover;
+}
+.confirmPassword {
+    position: absolute;
+    top: calc(50% - 13px);
+    left: calc(50% - 137.5px);
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 193px;
+    height: 26px;
+}
+.detailsSignup {
+    position: absolute;
+    top: 83px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 50px;
+    text-align: left;
+}
+.alreadyHaveAn1 {
+    position: absolute;
+    top: calc(50% + 262px);
+    left: calc(50% - 153.5px);
+    font-weight: 500;
+    color: #064356;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 235px;
+    height: 26px;
+}
+.signUpFormChild {
+    position: absolute;
+    top: calc(50% + 161px);
+    left: calc(50% - 182.5px);
+    background-color: #f3f3f3;
+    border: 1px solid #021736;
+    box-sizing: border-box;
+    width: 16px;
+    height: 16px;
+    display: none;
+}
+.logIn {
+    position: absolute;
+    top: calc(50% + 263px);
+    left: calc(50% + 6.5px);
+    text-decoration: underline;
+    font-weight: 500;
+    color: #187cf1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 193px;
+    height: 26px;
+}
+.signUpFormItem {
+    position: absolute;
+    top: calc(50% + 192px);
+    left: calc(50% - 80.5px);
+    border-radius: 21px;
+    background-color: #12c871;
+    width: 157px;
+    height: 39px;
+}
+.signUp {
+    position: absolute;
+    top: 481px;
+    left: 121px;
+    font-size: 27px;
+    display: flex;
+    color: #000000;
+    align-items: center;
+    justify-content: center;
+    width: 157px;
+    height: 39px;
+    font-weight: bold;
+    font-family: 'League Spartan';
+}
+.signUp1 {
+    position: absolute;
+    top: calc(50% - 289px);
+    left: calc(50% - 88.5px);
+    font-size: 35px;
+    display: flex;
+    color: #05892a;
+    align-items: center;
+    justify-content: center;
+    width: 156px;
+    height: 42px;
+}
+.signUpForm {
+    position: absolute;
+    top: 160px;
+    left: 747px;
+    width: 403px;
+    height: 578px;
+    text-align: center;
+    font-size: 20px;
+    color: #a9b5b9;
+}
+.signUpWindowChild {
+    position: absolute;
+    top: 0px;
+    left: 23px;
+    border-radius: 40px;
+    width: 683px;
+    height: 808px;
+}
+.signUpWindowItem {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 40px;
+    width: 683px;
+    height: 808px;
+    object-fit: cover;
+}
+.closeIcon1 {
+    position: absolute;
+    top: 25.88px;
+    left: 1190.25px;
+    width: 32.17px;
+    height: 34.23px;
+}
+.signUpWindow1 {
+    position: relative;
+    width: 100%;
+    height: 808px;
+    text-align: left;
+    font-size: 45px;
+    color: #064356;
+    font-family: 'League Spartan';
+    top: 105px;
+    margin-left: 300px;
+    
+}
+
+.userNameInput {
+    width: 100%;
+    padding: 10px;
+    border: 0px ;
+    border-radius: 5px;
+    font-size: 20px;
+    outline: none;
+    transition: border-color 0.3s;
+    margin-left: 50px;
+    font-weight: 400;
+    font-family: 'League Spartan';
+    color: #033d0d;
+  }
+  
+  .userNameInput::placeholder {
+    color: #777777;
+  }
+  
+  .userNameInput:hover, #userNameInput:focus {
+    border-color: #007bff; 
+  }
+  
+
+.error {
+    color: rgb(235, 109, 109);
+    font: weight 400px;
+    
+  }
+  
+  .noUnderline {
+    text-decoration: none;
+    color: #000; 
+    transition: color 0.5s; 
+  }
+  
+  .noUnderline:hover {
+    color: #f33b3b;
+    font-weight: bold;
+     
+  }
+
+  
+.successMessage {
+    color: green; 
+    background-color: lightgreen; 
+    padding: 10px; 
+    border: 1px solid green; 
+    border-radius: 5px;
+    margin-top: 10px; 
+    z-index: 1000; 
+  }
+  
+  .userNameInputDD {
+    width: 100%;
+    padding: 10px;
+    border: none; 
+    font-size: 25px;
+    outline: none;
+    
+    margin-left: 50px;
+    font-weight: 400;
+    font-family: 'League Spartan';
+    
+    
+}
+
+.userNameInputDD::placeholder {
+    color: #777777;
+    font-size: 20px;
+}
+
+

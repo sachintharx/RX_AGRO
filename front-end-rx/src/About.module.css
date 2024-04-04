@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;700&display=swap');
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+.dataDrivenInsightsChild {
+    position: absolute;
+    top: -9px;
+    left: -9px;
+    border-radius: 30px;
+    width: 473px;
+    height: 654px;
+    object-fit: cover;
+}
+.dataDrivenInsightsItem {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.58);
+    width: 455px;
+    height: 636px;
+}
+.dataDrivenInsightsInner {
+    position: absolute;
+    top: 12px;
+    left: 9px;
+    border-radius: 30px;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    width: 437px;
+    height: 611px;
+}
+.dataDrivenInsights1 {
+    position: absolute;
+    top: 64px;
+    left: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 361px;
+    height: 73px;
+}
+.ourConsultantsAre2 {
+    position: absolute;
+    top: 125px;
+    left: 53px;
+    font-size: 30px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 351px;
+    height: 466px;
+}
+.dataDrivenInsights {
+    position: absolute;
+    top: 200px;
+    left: 1322px;
+    width: 455px;
+    height: 636px;
+}
+.tailoredSolutions1 {
+    position: absolute;
+    top: 64px;
+    left: 101px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 253px;
+    height: 73px;
+}
+.tailoredSolutions {
+    position: absolute;
+    top: 200px;
+    left: 687px;
+    width: 455px;
+    height: 636px;
+}
+.expertise {
+    position: absolute;
+    top: 200px;
+    left: 52px;
+    width: 455px;
+    height: 636px;
+}
+.backHs02 {
+    position: absolute;
+    top: 30px;
+    left: 0px;
+    border-radius: 38px;
+    background-color: #b6e9ae;
+    box-shadow: 0px 4px 22px rgba(0, 0, 0, 0.2);
+    width: 1829px;
+    height: 65px;
+}
+.whyChooseUs1 {
+    position: absolute;
+    top: 45px;
+    left: 52px;
+    font-size: 35px;
+    display: flex;
+    color: #2d373a;
+    text-align: left;
+    align-items: center;
+    width: 496px;
+    height: 36px;
+}
+.homeSection021 {
+    position: relative;
+    width: 100%;
+    height: 746px;
+    margin-top: 130px;
+    text-align: center;
+    font-size: 46px;
+    color: #fff;
+    font-family: 'League Spartan';
+}
+
+
+.dataDrivenInsights:hover,
+.tailoredSolutions:hover,
+.expertise:hover {
+    background-color: #f00303;
+    background: transparent;
+    scale: 1.1;
+    color: #000000;
+    transition: background-color 0.3s, color 0.3s;
+    box-shadow: #000000;
+}
+
+.expertiseItem {
+    transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;
+    cursor: pointer;
+}
+
+.expertiseItem:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 5px 10px rgba(214, 13, 13, 0.1);
+    background-color: #0374f5;
+}

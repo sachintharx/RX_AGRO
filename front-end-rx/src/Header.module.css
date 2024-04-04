@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@600;700&display=swap');
+
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+.headerChild {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 960px);
+    background-color: #b6e9ae;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.09);
+    width: 1920px;
+    height: 96px;
+}
+
+.headerItem {
+    position: absolute;
+    top: 14.33px;
+    left: calc(50% - 915px);
+    border-radius: 34px;
+    background-color: rgba(236, 243, 235, 0.44);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.09);
+    width: 1829px;
+    height: 65.91px;
+}
+
+.signupChild {
+    position: absolute;
+    top: 6px;
+    left: 15px;
+    border-radius: 51px;
+    background-color: #ed3030;
+    width: 140px;
+    height: 42px;
+    
+}
+
+.signUp {
+    position: absolute;
+    top: calc(50% - 28px);
+    left: calc(50% - 85px);
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 170px;
+    height: 56px;
+    color: #fff;
+}
+
+.signup {
+    position: absolute;
+    top: -22px;
+    left: 719px;
+    width: 170px;
+    height: 56px;
+    color: #fff;
+}
+
+.signinChild {
+    position: absolute;
+    top: 6px;
+    left: 15px;
+    border-radius: 51px;
+    background-color: #1e1e1e;
+    width: 140px;
+    height: 42px;
+}
+
+.signin {
+    position: absolute;
+    top: -22px;
+    left: 561px;
+    width: 170px;
+    height: 56px;
+    color: #fff;
+}
+
+.home {
+    position: absolute;
+    top: -23px;
+    left: -116px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 170px;
+    height: 56px;
+}
+
+.service {
+    position: absolute;
+    top: -23px;
+    left: 54px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 170px;
+    height: 56px;
+}
+
+.about {
+    position: absolute;
+    top: -23px;
+    left: 224px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 170px;
+    height: 56px;
+}
+
+.account {
+    position: absolute;
+    top: -23px;
+    left: 394px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 170px;
+    height: 56px;
+}
+
+.navigation {
+    position: absolute;
+    top: 42.27px;
+    left: 959px;
+    width: 680px;
+    height: 40.12px;
+}
+
+.logoIcon {
+    position: absolute;
+    top: 8px;
+    left: 89px;
+    border-radius: 50%;
+    width: 90px;
+    height: 87px;
+    object-fit: cover;
+}
+
+.rxAgro {
+    position: absolute;
+    top: 27.94px;
+    left: 194px;
+    font-size: 61px;
+    display: flex;
+    color: #064356;
+    text-align: left;
+    align-items: center;
+    width: 392px;
+    height: 45.13px;
+}
+
+.headerInner {
+    position: absolute;
+    top: 27.46px;
+    left: 1505.5px;
+    width: 5px;
+    height: 37.24px;
+}
+
+.header {
+    position:fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+    text-align: center;
+    font-size: 25px;
+    color: #586056;
+    font-family: 'League Spartan';
+}
+
+
+.navigation a.active {
+    background-color: rgb(42, 124, 231);
+    color: blue;
+    text-decoration: none;
+  }
+  
+  .navigation a {
+    
+    text-decoration: none;
+    font-weight: 600;
+    transition: background-color 0.2s;
+  }
+  
+
+  .navigation a:not(.active):hover {
+    background-color: transparent;
+    background-size:auto;
+    -webkit-text-fill-color: #ffffff;
+    text-transform: uppercase;
+    
+  }
+
+
+
+

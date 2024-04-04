@@ -1,0 +1,596 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;600;700&display=swap');
+body {
+  	margin: 0; line-height: normal;
+}
+
+.background1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #e0ebe3;
+  	width: 1920px;
+  	height: 3599px;
+}
+.footerChild {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1920px;
+  	height: 579px;
+}
+.footerItem {
+  	position: absolute;
+  	top: 401px;
+  	left: 268px;
+  	border-top: 4px solid #064356;
+  	box-sizing: border-box;
+  	width: 387px;
+  	height: 4px;
+}
+.home {
+  	position: absolute;
+  	top: 265px;
+  	left: 1618px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 170px;
+  	height: 56px;
+}
+.service {
+  	position: absolute;
+  	top: 309px;
+  	left: 1618px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 170px;
+  	height: 56px;
+}
+.about {
+  	position: absolute;
+  	top: 354px;
+  	left: 1618px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 170px;
+  	height: 56px;
+}
+.account {
+  	position: absolute;
+  	top: 404px;
+  	left: 1618px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	width: 170px;
+  	height: 56px;
+}
+.professionalAgricultureConsu1 {
+  	position: absolute;
+  	top: 397px;
+  	left: 271px;
+  	font-size: 26px;
+  	display: flex;
+  	color: #064356;
+  	align-items: center;
+  	width: 392px;
+  	height: 63px;
+}
+.rxAgro {
+  	position: absolute;
+  	top: 334px;
+  	left: 271px;
+  	font-size: 70px;
+  	display: flex;
+  	color: #064356;
+  	align-items: center;
+  	width: 392px;
+  	height: 63px;
+}
+.footerInner {
+  	position: absolute;
+  	top: 282px;
+  	left: 77px;
+  	border-radius: 50%;
+  	width: 180px;
+  	height: 178px;
+  	object-fit: cover;
+}
+.footer {
+  	position: absolute;
+  	top: 880px;
+  	left: 0px;
+  	width: 1920px;
+  	height: 579px;
+  	display: none;
+  	text-align: left;
+  	font-size: 32px;
+  	color: #586056;
+}
+.homeSection03Child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 39px;
+  	background-color: #fff;
+  	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+  	width: 1716px;
+  	height: 1045px;
+}
+.contactCounselorChild {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 37px;
+  	width: 718px;
+  	height: 391px;
+  	object-fit: cover;
+}
+.contactCounselorItem {
+  	position: absolute;
+  	top: 299px;
+  	left: 0px;
+  	border-radius: 0px 0px 37px 37px;
+  	background-color: rgba(0, 0, 0, 0.71);
+  	width: 718px;
+  	height: 92px;
+}
+.contactCounselor2 {
+  	position: absolute;
+  	top: 310px;
+  	left: 88px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 526px;
+  	height: 69px;
+  	text-shadow: 0px 4px 25px rgba(0, 0, 0, 0.25);
+}
+.contactCounselor1 {
+  	position: absolute;
+  	top: 598px;
+  	left: 896px;
+  	width: 718px;
+  	height: 391px;
+}
+.maintenance {
+  	position: absolute;
+  	top: 598px;
+  	left: 102px;
+  	width: 718px;
+  	height: 391px;
+}
+.findSolutions {
+  	position: absolute;
+  	top: 144px;
+  	left: 896px;
+  	width: 718px;
+  	height: 391px;
+}
+.startGrowing1 {
+  	position: absolute;
+  	top: 144px;
+  	left: 102px;
+  	width: 718px;
+  	height: 391px;
+}
+.selectYourRequirement1 {
+  	position: absolute;
+  	top: 39px;
+  	left: 64px;
+  	font-size: 42px;
+  	font-weight: 600;
+  	color: #000;
+  	text-align: left;
+  	display: flex;
+  	align-items: center;
+  	width: 892px;
+  	height: 105px;
+}
+.homeSection031 {
+  	position: absolute;
+  	top: 1978px;
+  	left: 98px;
+  	width: 1716px;
+  	height: 1045px;
+  	display: none;
+  	font-size: 50px;
+}
+.dataDrivenInsightsChild {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 30px;
+  	width: 455px;
+  	height: 636px;
+  	object-fit: cover;
+}
+.dataDrivenInsightsItem {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 30px;
+  	background-color: rgba(0, 0, 0, 0.58);
+  	width: 455px;
+  	height: 636px;
+}
+.dataDrivenInsightsInner {
+  	position: absolute;
+  	top: 12px;
+  	left: 9px;
+  	border-radius: 30px;
+  	border: 2px solid #fff;
+  	box-sizing: border-box;
+  	width: 437px;
+  	height: 611px;
+}
+.dataDrivenInsights1 {
+  	position: absolute;
+  	top: 64px;
+  	left: 48px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 361px;
+  	height: 73px;
+}
+.ourConsultantsAre2 {
+  	position: absolute;
+  	top: 125px;
+  	left: 53px;
+  	font-size: 35px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 351px;
+  	height: 466px;
+}
+.dataDrivenInsights {
+  	position: absolute;
+  	top: 149px;
+  	left: 1322px;
+  	width: 455px;
+  	height: 636px;
+}
+.tailoredSolutions1 {
+  	position: absolute;
+  	top: 64px;
+  	left: 101px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 253px;
+  	height: 73px;
+}
+.tailoredSolutions {
+  	position: absolute;
+  	top: 149px;
+  	left: 687px;
+  	width: 455px;
+  	height: 636px;
+}
+.expertise {
+  	position: absolute;
+  	top: 149px;
+  	left: 52px;
+  	width: 455px;
+  	height: 636px;
+}
+.backHs02 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 38px;
+  	background-color: #b6e9ae;
+  	box-shadow: 0px 4px 22px rgba(0, 0, 0, 0.2);
+  	width: 1829px;
+  	height: 65px;
+}
+.whyChooseUs1 {
+  	position: absolute;
+  	top: 15px;
+  	left: 52px;
+  	font-size: 35px;
+  	display: flex;
+  	color: #2d373a;
+  	text-align: left;
+  	align-items: center;
+  	width: 496px;
+  	height: 36px;
+}
+.homeSection021 {
+  	position: absolute;
+  	top: 1131px;
+  	left: 46px;
+  	width: 1829px;
+  	height: 785px;
+  	display: none;
+  	font-size: 57px;
+}
+.startingGrowingChild {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 699.5px);
+  	border-radius: 60px;
+  	background-color: #0dcb42;
+  	width: 1399px;
+  	height: 82px;
+}
+.startingGrowingItem {
+  	position: absolute;
+  	top: 7px;
+  	left: calc(50% - 690.5px);
+  	border-radius: 60px;
+  	background-color: rgba(255, 255, 255, 0.39);
+  	box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.25);
+  	width: 1380px;
+  	height: 68px;
+}
+.startGrowing3 {
+  	position: absolute;
+  	top: 15px;
+  	left: calc(50% - 223.5px);
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 446px;
+  	height: 56px;
+    background-color:transparent;
+}
+.startingGrowing {
+  	position: absolute;
+  	top: 186px;
+  	left: calc(50% - 699px);
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	width: 1399px;
+  	height: 82px;
+  	color: #064356;
+    
+}
+.selectTheCrop1 {
+  	position: absolute;
+  	top: 339px;
+  	left: 77px;
+  	font-weight: 600;
+  	color: #000;
+  	text-align: left;
+  	display: flex;
+  	align-items: center;
+  	width: 511px;
+  	height: 63px;
+}
+.back1 {
+  	position: absolute;
+  	top: 441px;
+  	left: calc(50% - 894px);
+  	border-radius: 50px;
+  	background-color: #d9d9d9;
+  	box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.13);
+  	width: 1788px;
+  	height: 456px;
+}
+.carrotChild {
+  	position: absolute;
+  	top: 0px;
+  	left: -3px;
+  	border-radius: 22px;
+  	width: 283px;
+  	height: 392px;
+  	object-fit: cover;
+}
+.carrotItem {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 22px;
+  	background-color: rgba(0, 0, 0, 0.59);
+  	box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.09);
+  	width: 277px;
+  	height: 385px;
+}
+.carrot1 {
+  	position: absolute;
+  	top: 160px;
+  	left: 22px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 234px;
+  	height: 64px;
+}
+.carrot {
+    position: relative;
+    width: 277px;
+    height: 385px;
+    transition: all 0.2s ease; 
+}
+
+.carrot:hover {
+    transform: scale(1.1); 
+    box-shadow: 0px 8px 6px rgba(0, 0, 0, 0.2); 
+    color: #f57373;
+}
+.cropsList {
+  	position: absolute;
+  	top: 477px;
+  	left: calc(50% - 856px);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 82px;
+  	font-size: 61px;
+}
+.headerChild {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 960px);
+  	background-color: #b6e9ae;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.09);
+  	width: 1920px;
+  	height: 134px;
+}
+.headerItem {
+  	position: absolute;
+  	top: 20px;
+  	left: calc(50% - 915px);
+  	border-radius: 34px;
+  	background-color: rgba(236, 243, 235, 0.44);
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.09);
+  	width: 1829px;
+  	height: 92px;
+}
+.signupChild {
+  	position: absolute;
+  	top: 7px;
+  	left: 15px;
+  	border-radius: 51px;
+  	background-color: #ed3030;
+  	width: 140px;
+  	height: 42px;
+}
+.signUp {
+  	position: absolute;
+  	top: calc(50% - 28px);
+  	left: calc(50% - 85px);
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 170px;
+  	height: 56px;
+}
+.signup {
+  	position: absolute;
+  	top: -17px;
+  	left: 719px;
+  	width: 170px;
+  	height: 56px;
+  	color: #fff;
+}
+.signinChild {
+  	position: absolute;
+  	top: 7px;
+  	left: 15px;
+  	border-radius: 51px;
+  	background-color: #1e1e1e;
+  	width: 140px;
+  	height: 42px;
+}
+.signin {
+  	position: absolute;
+  	top: -17px;
+  	left: 561px;
+  	width: 170px;
+  	height: 56px;
+  	color: #fff;
+}
+.home1 {
+  	position: absolute;
+  	top: -17px;
+  	left: -116px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 170px;
+  	height: 56px;
+}
+.service1 {
+  	position: absolute;
+  	top: -17px;
+  	left: 54px;
+  	font-weight: 600;
+  	color: #9e3481;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 170px;
+  	height: 56px;
+}
+.about1 {
+  	position: absolute;
+  	top: -17px;
+  	left: 224px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 170px;
+  	height: 56px;
+}
+.account1 {
+  	position: absolute;
+  	top: -17px;
+  	left: 394px;
+  	font-weight: 600;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 170px;
+  	height: 56px;
+}
+.navigation {
+  	position: absolute;
+  	top: 59px;
+  	left: 959px;
+  	width: 680px;
+  	height: 56px;
+}
+.logoIcon {
+  	position: absolute;
+  	top: 27px;
+  	left: 85px;
+  	border-radius: 50%;
+  	width: 79px;
+  	height: 79px;
+  	object-fit: cover;
+}
+.rxAgro1 {
+  	position: absolute;
+  	top: 39px;
+  	left: 194px;
+  	font-size: 61px;
+  	display: flex;
+  	color: #064356;
+  	text-align: left;
+  	align-items: center;
+  	width: 392px;
+  	height: 63px;
+}
+.headerInner {
+  	position: absolute;
+  	top: 46px;
+  	left: 1508px;
+  	width: 45px;
+  	height: 0px;
+}
+.header {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 960px);
+  	width: 1920px;
+  	height: 134px;
+  	display: none;
+  	font-size: 25px;
+  	color: #586056;
+}
+.startGrowing {
+  	position: relative;
+  	background-color: #fff;
+  	width: 100%;
+  	height: 1459px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 47px;
+  	color: #fff;
+  	font-family: 'League Spartan';
+    margin-bottom: -500px;
+}
+
