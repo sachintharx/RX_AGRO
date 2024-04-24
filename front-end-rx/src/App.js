@@ -27,6 +27,7 @@ function App() {
         <Header/>
 
         <Routes>
+          
           <Route path = "/" element={<HomeSection01/>}  />        
         
         
